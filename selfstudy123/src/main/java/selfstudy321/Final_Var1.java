@@ -2,7 +2,7 @@ package selfstudy321;
 
 public class Final_Var1 {
 	
-	final int a=35;
+	int a=35;
 	public void display() {
 		a=56;
 		System.out.println(a);
